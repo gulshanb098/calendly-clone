@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1753355697978,
+      "tag": "0000_event-and-schedule",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1753715600962,
+      "tag": "0001_schedule_table-clear-user-id-unique",
+      "breakpoints": true
+    }
+  ]
+}
